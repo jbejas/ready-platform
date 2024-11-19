@@ -81,7 +81,7 @@ export default function UserPhoneNumberScreen({ navigation, route }: Props) {
       sentryTracker(
         "LocationScreen",
         `Error goToReflectionQuoteScreen: ${error}`,
-        user
+        user,
       );
     }
   };
@@ -92,10 +92,10 @@ export default function UserPhoneNumberScreen({ navigation, route }: Props) {
       if (status !== "granted") {
         setIsLocationGranted(false);
         const reversedGeolocation = await axios.get(
-          `https://maps.googleapis.com/maps/api/geocode/json?latlng=39.4231173,-95.9334841&key=AIzaSyD2Xjya7T359fXEpdP5qxKXLF3XxzHHrjU`
+          `https://maps.googleapis.com/maps/api/geocode/json?latlng=39.4231173,-95.9334841&key=`,
         );
         const currentLocation = reversedGeolocation.data.results.find(
-          (location) => location.types[0] === "postal_code"
+          (location) => location.types[0] === "postal_code",
         );
         setLocation(currentLocation.formatted_address);
 
@@ -105,10 +105,10 @@ export default function UserPhoneNumberScreen({ navigation, route }: Props) {
       } else {
         const { coords } = await Location.getCurrentPositionAsync({});
         const reversedGeolocation = await axios.get(
-          `https://maps.googleapis.com/maps/api/geocode/json?latlng=${coords.latitude},${coords.longitude}&key=AIzaSyD2Xjya7T359fXEpdP5qxKXLF3XxzHHrjU`
+          `https://maps.googleapis.com/maps/api/geocode/json?latlng=${coords.latitude},${coords.longitude}&key=`,
         );
         const currentLocation = reversedGeolocation.data.results.find(
-          (location) => location.types[0] === "postal_code"
+          (location) => location.types[0] === "postal_code",
         );
         setLocation(currentLocation.formatted_address);
         setLat(coords.latitude);
@@ -125,10 +125,10 @@ export default function UserPhoneNumberScreen({ navigation, route }: Props) {
   const fetchLocationByZipCode = async () => {
     try {
       const reversedGeolocation = await axios.get(
-        `https://maps.googleapis.com/maps/api/geocode/json?address=${location}&key=AIzaSyD2Xjya7T359fXEpdP5qxKXLF3XxzHHrjU`
+        `https://maps.googleapis.com/maps/api/geocode/json?address=${location}&key=`,
       );
       const currentLocation = reversedGeolocation.data.results.find(
-        (location) => location.types[0] === "postal_code"
+        (location) => location.types[0] === "postal_code",
       );
       console.log("Current location", currentLocation);
       setLocation(currentLocation.formatted_address);
@@ -139,7 +139,7 @@ export default function UserPhoneNumberScreen({ navigation, route }: Props) {
       sentryTracker(
         "LocationScreen",
         `Fetch Location by zip code error: ${error}`,
-        user
+        user,
       );
     }
   };
@@ -152,10 +152,10 @@ export default function UserPhoneNumberScreen({ navigation, route }: Props) {
   const parseLocation = async (latlong) => {
     try {
       const reversedGeolocation = await axios.get(
-        `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latlong.x.latitude},${latlong.x.longitude}&key=AIzaSyD2Xjya7T359fXEpdP5qxKXLF3XxzHHrjU`
+        `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latlong.x.latitude},${latlong.x.longitude}&key=`,
       );
       const currentLocation = reversedGeolocation.data.results.find(
-        (location) => location.types[0] === "postal_code"
+        (location) => location.types[0] === "postal_code",
       );
       setLocation(currentLocation.formatted_address);
     } catch (error) {
