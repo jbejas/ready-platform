@@ -1,0 +1,11 @@
+{
+  "menu-icons": {
+    "you": "Tu",
+    "connect": "Conectar",
+    "spark": "Chispa",
+    "talk": "Chat"
+  },
+  "errors": {
+    "required": "Este campo es obligatorio"
+  }
+}

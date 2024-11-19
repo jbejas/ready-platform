@@ -1,0 +1,62 @@
+{
+  "cli": {
+    "version": ">= 9.0.7"
+  },
+  "build": {
+    "development": {
+      "distribution": "internal",
+      "env": {
+        "ENVIRONMENT": "dev"
+      },
+      "resourceClass": "large",
+      "ios": {
+        "fastlane": "2.213.0",
+        "enterpriseProvisioning": "adhoc"
+      },
+      "node": "20.13.1",
+      "yarn": "1.22.22"
+    },
+    "staging": {
+      "distribution": "internal",
+      "env": {
+        "ENVIRONMENT": "staging"
+      },
+      "resourceClass": "large",
+      "ios": {
+        "fastlane": "2.213.0",
+        "enterpriseProvisioning": "adhoc"
+      },
+      "node": "20.13.1",
+      "yarn": "1.22.22"
+    },
+    "beta": {
+      "distribution": "internal",
+      "env": {
+        "ENVIRONMENT": "beta"
+      },
+      "resourceClass": "large",
+      "ios": {
+        "fastlane": "2.213.0",
+        "enterpriseProvisioning": "adhoc"
+      },
+      "node": "20.13.1",
+      "yarn": "1.22.22"
+    },
+    "prod": {
+      "distribution": "internal",
+      "env": {
+        "ENVIRONMENT": "prod"
+      },
+      "resourceClass": "large",
+      "ios": {
+        "fastlane": "2.213.0",
+        "enterpriseProvisioning": "adhoc"
+      },
+      "node": "20.13.1",
+      "yarn": "1.22.22"
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}

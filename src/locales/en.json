@@ -1,0 +1,688 @@
+{
+  "general": {
+    "continue": "Continue",
+    "save": "Save",
+    "edit": "Edit",
+    "im-ready": "I'm ready",
+    "im-done": "I'm done",
+    "visible-on-profile": "Visible on my profile",
+    "a-bit-more": "A bit more",
+    "basic-info": "Basic info",
+    "more-info": "More info",
+    "create-account": "Create an account",
+    "miles": "Miles",
+    "mile": "Mile",
+    "skip-this-for-now": "Skip this for now",
+    "skip": "Skip",
+    "welcome": "Welcome",
+    "done": "Done",
+    "disabled": "Disabled",
+    "off": "Off",
+    "on": "On",
+    "ok": "OK",
+    "show-me": "Show me",
+    "my-profile-is-complete": "My profile is complete",
+    "add-to-profile": "Add to my profile",
+    "all-set": "All set",
+    "got-it": "Got it",
+    "learn-more": "Learn more",
+    "landing-text": "Ready is a relationship platform that fosters growth as you date, and as you build a relationship.",
+    "explore-content": "Explore content",
+    "go-to-my-dashboard": "Go to my dashboard"
+  },
+  "errors": {
+    "user-not-found": "Your phone number is not registered with Ready. Please try signing up.",
+    "required": "This field is required"
+  },
+  "menu-icons": {
+    "you": "You",
+    "connect": "Connect",
+    "spark": "Spark",
+    "talk": "Talk",
+    "profile": "Profile"
+  },
+  "landing-page": {
+    "subtitle": "An evolved dating app and a home for relationships.",
+    "create-account": "CREATE ACCOUNT",
+    "sign-up": "Sign up",
+    "sign-in": "Sign in",
+    "trouble-sign-in": "Trouble signing in?",
+    "sign-up-disclaimer": "By signing up, you agree to our!",
+    "terms": "Terms and Conditions.",
+    "privacy-policy-disclaimer": "See how we use your data in our",
+    "privacy-policy": "Privacy Policy.",
+    "social-media-post": "We never post to any Social Media platform."
+  },
+  "value-prop-screen": {
+    "title": "Ready is a relationship platform that fosters growth as you date, and as you build a relationship."
+  },
+  "value-prop-screen-2": {
+    "title": "Growth starts with self-reflection. The goal of reflective dating is to connect better to yourself, so you can connect better to others.",
+    "subtitle": "The goal of reflective dating is to connect more deeply to yourself, so you can connect more deeply to others."
+  },
+  "phone-verification": {
+    "title": "What's your phone number?",
+    "phone-number-input-placeholder": "Enter phone number",
+    "description": "Ready will send you a text with a verification code. Standard rates may apply.",
+    "number-changes": "What happens if your number changes?",
+    "country-code": "Country Code",
+    "why-do-you-need-my-phone-number": "Why do we ask for this?",
+    "why-do-you-need-my-phone-number-description": "We ask for your phone number to help keep our community authentic. This step helps us verify your account and ensure a better experience for everyone.",
+    "verification-code-description": "Ready will send you a text message with a verification code. Standard rates may apply.",
+    "otp-code-description": "Ready will send you a text message with a One Time Password. Standard rates may apply.",
+    "verification-code-title": "Enter the code we just texted you",
+    "resend-code": "Resend code",
+    "resend-otp": "Resend OTP",
+    "invalid-otp": "The OTP is incorrect"
+  },
+  "about-ready": {
+    "pretitle": "Reflections and matches",
+    "title": "How Ready works"
+  },
+  "what-are-daily-reflections": {
+    "title": "How Daily Reflections work",
+    "subtitle": "Complete Daily Reflection questions every day to unlock new potential connections.",
+    "card-title": "The way I talk to myself lately sounds like...",
+    "card-pretitle": "Curiosity"
+  },
+  "how-reflections-work": {
+    "title": "Daily Reflection questions help you pause, so you can make decisions – and match with other people – in a way that aligns with your values.",
+    "subtitle": "Daily Reflections also help us get to know you better, so we can show you better potential matches. The more authentic your answers, the better the opportunity for authentic connection. The more Daily Reflections you answer, the more potential matches you’ll see."
+  },
+  "how-matches-work-one": {
+    "title": "They also help us get to know you better, so we can",
+    "title1": "show you better potential matches.",
+    "you-have-new-matches": "You have new matches!",
+    "view-matches": "View your three new Ready matches"
+  },
+  "how-connections-work": {
+    "pretitle": "How connections work",
+    "title": "See someone that catches your eye? Send them a Spark. If they send you a Spark too, it’s a connection — and you can start the conversation.",
+    "you-have-new-matches": "You’ve got 2 new connections",
+    "view-matches": "Say hi to start the conversation"
+  },
+  "healthy-communication": {
+    "pretitle": "Creating authentic connections",
+    "title": "You can have 5 connections at a time. The intent is to pave the way for quality conversations over the quantity of connections."
+  },
+  "how-matches-work-four": {
+    "title": "To facilitate authentic connection and healthy communication, you can have",
+    "title1": "at most",
+    "title2": "connections",
+    "title3": "at a time."
+  },
+  "complete-first-reflection": {
+    "pretitle": "Daily reflection",
+    "title": "Ready for your first Daily Reflection?"
+  },
+  "reflection-question-start": {
+    "title": "Start your Daily Reflection practice"
+  },
+  "reflection-question": {
+    "title": "Daily Reflection"
+  },
+  "reflection-question-screen": {
+    "response": "Add your response here"
+  },
+  "reflection-progression": {
+    "title": "Your progress starts now,",
+    "pretitle": "Daily Reflection"
+  },
+  "user-password": {
+    "title": "Set up a password for your account.",
+    "password": "Password",
+    "repeat-password": "Repeat Password",
+    "password-invalid": "Your password must be at least 8 characters long and contain at least one letter and one number.",
+    "passwords-dont-match": "Passwords don't match."
+  },
+  "sign-in-email": {
+    "title": "Enter your email and password.",
+    "password": "Password",
+    "email": "Email",
+    "invalid-login": "Your email or password are incorrect.",
+    "try-again": "Please try again."
+  },
+  "user-name": {
+    "whats-your-name": "What's your name?",
+    "subtitle": "This is how potential connections will see you",
+    "first-name": "First name (Required)",
+    "last-name": "Last name",
+    "optional": "Optional",
+    "last-name-optional": "Adding your last name is optional. It gives your profile credibility, and helps make Ready a more authentic place.",
+    "why": "Why?"
+  },
+  "email-verification": {
+    "whats-your-email": "What's your email?",
+    "email": "Email",
+    "email-verify": "Your email is a key part of keeping your account secure.",
+    "subscribe-mailing-list": "Please check this box if you don’t want to receive communications about our products and services.",
+    "modal-title": "Ready's Mailing List",
+    "modal-content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  "dob": {
+    "title": "When’s your birthday?",
+    "description": "Your age will appear on your profile. You won’t be able to change this later.",
+    "select-dob": "Select my Date of Birth"
+  },
+  "user-gender": {
+    "title-old": "Which best describes you?",
+    "title": "How do you prefer to identify? ",
+    "subtitle": "You’ll be matched based on these gender groups. Add more about your gender after, if you like.",
+    "provide-more-info": "Provide more info",
+    "add-more-detail": "Add more detail about how you identify",
+    "identity-inclusivity-message": "It's important to us that everyone feels welcome on Ready. Let us know if we’re missing something. ",
+    "alert": "It’s important to us that everyone feels welcome on Ready.",
+    "let-us-know": "Let us know",
+    "if-we-are-missing": "if we’re missing something.",
+    "add-more": "Add more"
+  },
+  "user-ethnicity": {
+    "title": "Which ethnicity best describes you?",
+    "alert": "Ethnicity is a core part of self-identity. We want you to help you feel seen and see others with shared experiences, histories, culture and connection in mind."
+  },
+  "religion-screen": {
+    "title": "What are your religious beliefs?"
+  },
+  "height-screen": {
+    "title": "How tall are you?"
+  },
+  "add-more-details": {
+    "title": "Let's shine a light on your amazing qualities and inspire others to discover the joy and spark thet only you can bring.",
+    "button": "Share more"
+  },
+  "user-pronouns": {
+    "title-old": "What pronouns do you prefer?",
+    "title": "What are your pronouns?",
+    "subtitle": "You’ll be matched based on these gender groups. Add more about your gender after, if you like."
+  },
+  "user-sexual-orientation": {
+    "title": "What is your sexual orientation?"
+  },
+  "user-dating-preference": {
+    "title": "Who are you open to dating?",
+    "subtitle": "You can choose more than one."
+  },
+  "user-distance-preference": {
+    "title": "How close would you like your matches to be?",
+    "miles": "Miles"
+  },
+  "kids-screen": {
+    "title": "Do you have kids?"
+  },
+  "want-kids-screen": {
+    "title": "Do you want kids?"
+  },
+  "user-education": {
+    "title": "What level of schooling did you complete?"
+  },
+  "user-alma-mater": {
+    "title": "What's your Alma Mater?"
+  },
+  "user-languages": {
+    "title": "What languages do you speak?"
+  },
+  "alcohol-screen": {
+    "title": "Do you drink alcohol?"
+  },
+  "tobacco-screen": {
+    "title": "Do you smoke tobacco?"
+  },
+  "weed-screen": {
+    "title": "Do you do drugs?"
+  },
+  "drugs-screen": {
+    "title": "Do you do drugs?"
+  },
+  "therapy-screen": {
+    "title": "How important is therapy for you?"
+  },
+  "exercise-screen": {
+    "title": "How often do you exercise?"
+  },
+  "user-eating": {
+    "title": "What are your eating preferences?"
+  },
+  "user-exercise": {
+    "title": "How often do you exercise?"
+  },
+  "user-sleeping": {
+    "title": "What are your sleeping habits?"
+  },
+  "hometown-screen": {
+    "title": "Where did you grow up?",
+    "input-placeholder": "Enter your hometown "
+  },
+  "school-screen": {
+    "title": "What was your alma mater?"
+  },
+  "education-screen": {
+    "title": "What’s your highest level of academic achievement?"
+  },
+  "story-dashes": {
+    "view-user-profile": "View {{userName}}'s profile",
+    "quality": "The quality I appreciate the most",
+    "sent-spark": "You sent a spark to",
+    "its-connection": "It's a connection",
+    "start-conversation": "Start the conversation and say hi",
+    "about-me": "About me",
+    "start-the-conversation": "Start the conversation",
+    "maybe-later": "Maybe later"
+  },
+  "profile-complete": {
+    "title": "You’re almost there. Show off your best and most genuine self with photos and prompts."
+  },
+  "profile-done": {
+    "title": "You're done setting up your profile and connection preferences.",
+    "subtitle": "Nice, now, try exploring some of our Ready Audio, and Essay content."
+  },
+  "user-photos": {
+    "title": "Pick your photos"
+  },
+  "user-prompts": {
+    "title": "Add answers to questions that define you at best",
+    "1st-prompt": "Choose 1st prompt",
+    "2nd-prompt": "Choose 2nd prompt",
+    "3rd-prompt": "Choose 3rd prompt",
+    "prompts": "Prompts"
+  },
+  "notifications": {
+    "dont-miss-out": "Don’t miss an opportunity – to deepen your growth, and your connections.",
+    "enable-notifications": "Enable notifications",
+    "turn-notifications-on": "Turn notifications on",
+    "skip": "Skip for now"
+  },
+  "go-to-dashboard": {
+    "title": "Now, let’s go to your dashboard. This is where you’ll be able to see what’s new and track your reflective progress."
+  },
+  "reflection-stats": {
+    "reflection": "Reflection out of",
+    "reflections": "Reflections out of"
+  },
+  "welcome": {
+    "welcome": "Welcome",
+    "lets-start": "let's start by discovering you",
+    "subtitle": "We're so glad that you've decided to join us. You're on the path to knowing yourself and managing your relations better.",
+    "get-started": "Get Started"
+  },
+  "sign-in": {
+    "apple": "Sign in with Apple",
+    "facebook": "Sign in with Facebook",
+    "phone-number": "Sign in with Phone Number",
+    "email": "Sign in with Email",
+    "back": "Back"
+  },
+  "you-screen": {
+    "your-daily-reflections": "Your Daily Reflections",
+    "can-reflect": "Complete you daily reflection to see matches.",
+    "cannot-reflect": "You have completed your reflections for today.",
+    "reflection-progress": "Reflection progress",
+    "see-all": "See all",
+    "your-feed": "Your feed",
+    "day": "days",
+    "days": "days",
+    "progress": "of {{ contentCategory }} practice",
+    "your-progression": "Your progress",
+    "explore-more": "Explore more"
+  },
+  "reflection-screen": {
+    "day": "day",
+    "days": "days",
+    "progress": "of progress",
+    "your-progression": "Your progress"
+  },
+  "quote-of-the-day": {
+    "title": "Quote of the day",
+    "close-quote": "Close quote"
+  },
+  "user-settings": {
+    "my-profile": "My profile",
+    "view-my-profile": "View my profile",
+    "view-my-story": "View my Connect story",
+    "my-account": "Account",
+    "matching-preferences": "Matching preferences",
+    "notification-settings": "Notification settings",
+    "account-information": "Account information",
+    "help": "Help",
+    "about": "About",
+    "log-out": "Log out",
+
+    "privacy": "Privacy",
+    "account-name": "Name",
+    "account-birthday": "birthday",
+    "account-email": "Email",
+    "account-location": "location",
+    "account-photos": "My photos",
+
+    "verified-profile": "Verified Profile",
+    "prompts": "Prompts",
+    "prompts-description": "Add answers to questions that define you at best",
+    "basics": "Basics",
+    "basics-description": "Your basic information",
+    "sign-out": "Sign Out",
+    "location": "Location",
+    "gender": "Gender",
+    "gender-preference": "Gender Preference",
+    "hometown": "Hometown",
+    "email": "Email",
+    "instagram": "Instagram",
+    "ethnicity": "Ethnicity",
+    "children-status": "Children Status",
+    "languages": "Languages",
+    "distance-preference": "Distance Preference",
+    "drink-preference": "Drink Preference",
+    "tobacco-preference": "Tobacco Preference",
+    "drugs-preference": "Drugs Preference",
+    "eating-preferences": "Eating Preferences",
+    "exercise-preference": "Exercise Preference",
+    "sleeping-habits": "Sleeping Habits",
+    "education-level": "Education Level",
+    "height": "Height",
+    "pronouns": "Pronouns",
+    "religion": "Religion",
+    "sexual-orientation": "Sexual Orientation",
+    "alma-mater": "Alma Mater",
+    "date-of-birth": "Date of Birth",
+    "school": "School",
+    "visible": "Visible on Profile",
+    "not-visible": "Not visible on Profile",
+    "about-you": "About you"
+  },
+  "my-account": {
+    "bio-not-set": "Add a brief about yourself",
+    "bio": "About",
+    "bio-description": "This helps other members on Ready help better get to know you : )",
+    "daily-reflection": "Daily Reflection",
+    "prompt-answer": "Add the answer to your prompt",
+    "add-prompts": "Add up to 3 prompts"
+  },
+  "bio-screen": {
+    "title": "Your bio",
+    "subtitle": "Add a brief description of yourself to your Ready profile for others to see : )",
+    "placeholder": "Share something about yourself..."
+  },
+  "location-screen": {
+    "title": "Where are you located?",
+    "subtitle": "This is how we’ll find connections close to you. Only your city and state will be shown on your profile.",
+    "input-placeholder": "Enter your location"
+  },
+  "matching-preferences-screen": {
+    "screen-header": "Matching Preferences",
+    "title": "Matching Preferences",
+    "subtitle": "Let’s go a bit deeper into who you are, and what you’re looking for, on the journey to who you’ll become.",
+    "gender-preference": "Gender preference",
+    "age-range": "Age range",
+    "location-proximity": "Location proximity",
+    "within": "Within",
+    "mi-of-me": "mi of me",
+    "distance-doesnt-matter": "Distance doesn't matter"
+  },
+  "age-range-screen": {
+    "screen-header": "Age Range",
+    "title": "Select your age preference",
+    "to": "to",
+    "years": "years",
+    "subtitle": "Adjust your preferences to see more potential connection"
+  },
+  "notifications-screen": {
+    "screen-header": "Notifications",
+    "title": "Notifications",
+    "daily-reflection-reminder": "Daily reflection reminder",
+    "new-connections": "New connections",
+    "new-messages": "New messages",
+    "new-matches": "New matches",
+    "location-proximity": "Location Proximity"
+  },
+  "daily-reflection-reminder-screen": {
+    "screen-header": "Daily reflection reminder",
+    "title": "Daily reflection reminder",
+    "subtitle": "Set your reflection reminder",
+    "description": "Ready will send you a reminder at your set time to view and complete your daily refection question.",
+    "daily-reflection-notification": "Daily reflection notification",
+    "reminder-frequency": "Reminder frequency",
+    "reminder-time": "Reminder time"
+  },
+  "my-profile-screen": {
+    "image-error-title": "Try a different photo",
+    "image-error-subtitle": "The photo you uploaded violates our community guidelines. Try again with a different photo. If you think this is a mistake, contact us at support@readyplatform.co",
+    "image-error-cta": "OK"
+  },
+  "connection-profile-screen": {
+    "about": "About",
+    "more-about-me": "More about me",
+    "how-do-you-indentify": "How do you prefer to identify?",
+    "languages": "How many languages do you speak?",
+    "height": "How tall are you?",
+    "religion": "What are your religious beliefs?",
+    "tobacco": "Do you smoke tobacco?",
+    "drink": "Do you drink alcohol?",
+    "what-i-value": "What I value most",
+    "mental": "My mental well being",
+    "qualities": "Quality I value",
+    "you-sent-a-spark": "You sent a spark to",
+    "you-sparked-with": "You sparked with"
+  },
+  "new-connections-reminder-screen": {
+    "screen-header": "New connections",
+    "title": "New connections",
+    "subtitle": "Set your connection reminders",
+    "description": "Ready will send you a reminder at your set time to view new matches.",
+    "matches-via-push": "Matches via push",
+    "matches-via-email": "Matches via email",
+    "matches-via-push-description": "Send me new matches via push",
+    "matches-via-email-description": "Send me new matches via email"
+  },
+  "new-messages-screen": {
+    "screen-header": "New messages",
+    "title": "New messages",
+    "subtitle": "Set your new chat messages notifications",
+    "description": "Ready will send you a push notification when you receive a new message from any of your connections.",
+    "messages-via-push": "Messages via push"
+  },
+  "account-information-screen": {
+    "title": "Account information",
+    "screen-header": "Account information"
+  },
+  "help-screen": {
+    "screen-header": "Help",
+    "title": "Contact us for help",
+    "subtitle": "Run into an issue with Ready? Reach out to us, and we’ll do our best to respond in a timely manner. Contact us at",
+    "contact-email": "support@readyplatform.co "
+  },
+  "about-screen": {
+    "screen-header": "About Ready",
+    "title": "Contact us for help",
+    "subtitle": "Run into an issue with Ready? Reach out to us, and we’ll do our best to respond in a timely manner. Contact us at",
+    "contact-email": "support@readyplatform.co "
+  },
+  "about-you-screen": {
+    "screen-header": "About you"
+  },
+  "value-screen": {
+    "subtitle": "Your answer will appear on your profile. "
+  },
+  "profile-setup": {
+    "title": "Profile Setup",
+    "subtitle": "Let’s set your Ready profile up. This will be your public facing profile, and part of your match storybook as well."
+  },
+  "what-is-important": {
+    "title": "1/3",
+    "subtitle": "Let’s get grounded in who you are – which starts with what’s important to you"
+  },
+  "values-screen": {
+    "title": "Which value is most important to you?"
+  },
+  "mental-health-screen": {
+    "title": "How do you take care of your mental health?",
+    "subtitle": "You can choose more than one."
+  },
+  "quality-screen": {
+    "title": "What quality are you working on developing the most?"
+  },
+  "energy-screen": {
+    "title": "What do you put the most amount of energy into?",
+    "subtitle": "You can choose more than one."
+  },
+  "setup-2-screen": {
+    "pretitle": "2/3",
+    "title": "Let’s go a bit deeper into who you are, and what you’re looking for, on the journey to who you’ll become.",
+    "subtitle": "Your answers will appear on your profile."
+  },
+  "star-sign-screen": {
+    "title": "What's your star sign?"
+  },
+  "grew-up-screen": {
+    "title": "Where adid you grow up?",
+    "input-placeholder": "Type your zip code..."
+  },
+  "distance-screen": {
+    "title": "Set your connection radius",
+    "subtitle": "This is how we'll find matches close to you",
+    "distance-doesnt-matter": "Distance doesn't matter",
+    "distance-disabled-hl": "We’ve pre-set your match radius for now",
+    "distance-disabled-sl": "You'll only see connections that are within this distance from you"
+  },
+  "setup-habits-screen": {
+    "title": "Sharing Habits",
+    "subtitle": "Tell us a bit about your personal habits — this will help you find better matches through Ready."
+  },
+  "profile-suspended": {
+    "title": "Profile suspended.",
+    "subtitle": "Your profile has been paused due to inappropriate activity. If you feel this is a mistake, please contact Ready via profiles@readyplatform.co.",
+    "description": "You will be unable to use Ready while we review your case."
+  },
+  "connect-screen": {
+    "connect-title": "Connect",
+    "today-matches": "Today's matches",
+    "finish-profile": "Your profile is missing key information",
+    "the-more-you-complete-profile": "Complete your profile to make the most of Ready",
+    "profile-title": "Don’t see potential connections yet? ",
+    "profile-subtitle": "Your profile is missing key information. Complete your profile to make the most of Ready",
+    "reflect-subtitle": "We're giving everyone time to create their profiles as the ready community grows from the ground up.",
+    "reflect-subtitle-2": "Check back in tomorrow and complete your ",
+    "reflect-subtitle-3": "Daily Reflection",
+    "reflect-subtitle-4": " so we can connect you better. We’ll let you know when new potential connections become available.",
+    "no-active-channels-title": "No active Chats are available right now.",
+    "no-active-channels-subtitle": "If you haven’t yet, head to the Connect tab and send Sparks to make new connections, and chat to new people.",
+    "learn-more": "Learn more",
+    "connections": "You have {{connectionsCount}} new potential connections, {{userFirstName}}",
+    "pull-down": "Pull down to view more connections",
+    "modal-text-1": "Complete your Daily Reflections to unlock more potential connections here in the Connect tab.",
+    "modal-text-2": "See someone's profile that catches your eye? Send them a Spark. If they send Spark back, it’s a connection — and you can start the conversation.",
+    "pause-text": "Take this moment to pause, so you can connect with other people with intention",
+    "complete-profile": "Complete my profile",
+    "connection-limit-title": "Not feeling a connection with someone?",
+    "connection-limit-subtitle-1": "To pave the way for quality conversations over the quantity of connections, you can have {{ activeConnectionsLimit }} connections at a time.",
+    "connection-limit-subtitle-2": "To disconnect from someone and connect with someone new, tap the three dots at the top right corner of your chat."
+  },
+  "horizontal-cards": {
+    "finish-profile": "Finish setting up your profile",
+    "the-more-you-complete-profile": "Tell us a bit about yourself to start seeing potential connections",
+    "what-quality": "What quality are you working on developing the most?",
+    "daily-reflection-title": "Take a moment for your Daily Reflection",
+    "daily-reflection-subtitle": "Unlock new potential connections by completing today’s question",
+    "sparks-title": "Sparks to send",
+    "sparks-subtitle": "View your new potential connections",
+    "new-matches": "new matches",
+    "start-chatting": "Start chatting with your new connections",
+    "more-questions-title": "More questions",
+    "more-questions-subtitle": "Spend more time reflecting to improve your connections",
+    "finish-you-profile-title": "Finish your profile",
+    "finish-you-profile-subtitle": "The more complete your profile, the better quality matches you’ll get",
+    "check-tomorrow": "Check back tomorrow for more :)",
+    "new-sparks-title": "Explore your new potential connections",
+    "new-sparks-subtitle": "Send a Spark to someone great",
+    "curious-for-more-title": "Curious for more?",
+    "curious-for-more-subtitle": "Check back tomorrow for more from us"
+  },
+  "chat-screen": {
+    "title": "Chat",
+    "no-active-channels-title": "Don't see any chats yet?",
+    "subtitle-1": "We're giving everyone time to create their profiles as the ready community grows from the ground up.",
+    "subtitle-2": "Check back in tomorrow and complete your ",
+    "subtitle-3": "Daily Reflection",
+    "subtitle-4": " so we can connect you better. We’ll let you know when new potential connections become available.",
+    "learn-more": "Learn more",
+    "modal-title-1": "Start or keep the conversation going with your Connections here on the Chat tab.",
+    "modal-title-2": "To pave the way for quality conversations over the quantity of connections, you can have 5 connections at a time. Disconnect from one of your current connections to connect with someone new.",
+    "complete-profile": "Complete my profile",
+    "profile-subtitle": "Your profile is missing key information. Complete your profile to make the most of Ready"
+  },
+  "single-channel": {
+    "new-chat-title": "This is where your story begins.",
+    "new-chat-subtitle": "Starting a conversation can be a bit challenging. Who will start to break the ice?",
+    "unmatch-from": "Unmatch from",
+    "unmatch": "Unmatch",
+    "unmatch-report": "Unmatch and report",
+    "report": "Report",
+    "get-help": "Get help",
+    "unmatch-this-person": "Unmatch this person",
+    "unmatch-explanation": "When you unmatch someone, you won't be able to contact each other or see each othe's profiles. If you feel uncomfortable, you can also report them. Your safety comes first.",
+    "empty-state-title": "This is where your story begins.",
+    "empty-state-subtitle": "Starting a conversation can be a bit challenging. Who will start to break the ice?"
+  },
+  "unmatch-step-one-screen": {
+    "title": "Thanks for keeping communication healthy. Select an option on the next screen to let them know why you’re disconnecting",
+    "subtitle": "Authentic feedback encourages honesty and understanding."
+  },
+  "unmatch-reason-screen": {
+    "title": "Let us know why you’re disconnecting from {{ userName }}",
+    "subtitle": "Thanks for putting the safety of the Ready community first."
+  },
+  "unmatch-details-screen": {
+    "title": "Anything else you’d like us to know about why you’re unmatching?",
+    "subtitle": "Your input won’t be shared with Sarah.",
+    "share-your-thoughts": "Share your thoughts"
+  },
+  "unmatch-complete-screen": {
+    "title": "You've been unmatched from {{ userName }}"
+  },
+  "report-step-one-screen": {
+    "header": "Report {{userName}}",
+    "title": "Help keep Ready safe for everyone. Your report is confidential. Select a reason for reporting {{userName}} on the next screen.",
+    "subtitle": "Thanks for putting the safety of the Ready community first."
+  },
+  "report-reason-screen": {
+    "title": "Why are you reporting {{userName}}?",
+    "subtitle": "subtitle"
+  },
+  "report-details-screen": {
+    "title": "Provide any additional details. This helps us review the report more effectively. Your input won't be shared with {{userName}}",
+    "share-your-thoughts": "Share your thoughts"
+  },
+  "report-complete-screen": {
+    "title": "thank you for your report. We take all reports seriously and will review this promptly. If needed we'll be in touch for more information."
+  },
+  "daily-wisdom-component": {
+    "title": "Daily wisdom",
+    "share": "Share"
+  },
+  "image-crop-screen": {
+    "pinch-and-drag": "Pinch and drag to reposition photo",
+    "alert": "Need some guidance on which photos to pick? Keep these tips in mind."
+  },
+  "user-photo-screen": {
+    "title": "Pick 4-6 photos for your profile. More photos are more opportunities to show what makes you, you.",
+    "hold-and-drag": "Hold and drag to reorder photos",
+    "alert": "Need some guidance on which photos to pick?",
+    "keep-these-tips": "Keep these tips",
+    "in-mind": "in mind"
+  },
+  "select-image-modal": {
+    "take-photo": "Take a photo",
+    "upload-photo": "Upload a photo",
+    "remove-photo": "Remove photo",
+    "cancel": "Cancel"
+  },
+  "user-photo-helper-modal": {
+    "title": "Lead with a clear, smiling headshot.",
+    "description1": "It should be evident from the get-go who you are and what you look like.",
+    "subtitle1": "Authenticity is the name of the game.",
+    "description2": "...and your photos are no exception. Make sure they’re recent and true to you. Natural lighting is the best filter.",
+    "subtitle2": "Add a photo that shows what you’re into.",
+    "description3": "Obsessed with your cat? Love kayaking? Let people know with a photo of you with or doing what you love.",
+    "subtitle3": "Add at least one full-body shot.",
+    "description4": "People will want to get the full picture of what you look like (literally).",
+    "all-set": "All set",
+    "alert": "Need some guidance on which photos to pick? Keep these tips in mind."
+  }
+}
